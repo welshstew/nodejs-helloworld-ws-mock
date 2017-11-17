@@ -1,0 +1,19 @@
+{
+  "name": "helloworld-ws-mock",
+  "version": "1.0.0",
+  "description": "Mock to imitate the helloworld ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "soap": "^0.23.0",
+    "xml2js": "^0.4.19",
+    "util": "^0.10.3"
+  }
+}
